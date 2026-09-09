@@ -1,0 +1,5 @@
+"Dataset","Total Images","Classes","Resolution","Source","Role"
+"Wheat Plant Diseases (Kaggle)","14,155","10+ (healthy, rusts, blight, etc.)","High-res","Field/lab","Primary train/test"
+"Ethiopian Wheat Leaf","407 (aug: 1,200)","3 (healthy, stripe rust, septoria)","~5MP","Farm (Ethiopia)","Cross-val"
+"PlantVillage Wheat","~800","3-5 wheat-specific","256x256","Lab","Baseline"
+"WFD","2,414","6 fungi + healthy","~5MP","Expert-annotated","Augmentation"

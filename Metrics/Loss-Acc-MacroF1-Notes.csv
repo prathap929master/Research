@@ -1,0 +1,6 @@
+"Loss","Acc (%)","Macro F1","Notes"
+"Cross-Entropy","94.8","0.93","Overfits minorities"
+"Weighted CE","95.6","0.95","Manual weights"
+"Focal (γ=1.0)","96.1","0.95","Good balance"
+"Focal (γ=2.0, used)","96.5","0.96","Best on rare classes"
+"Dice + CE","95.2","0.94","N/A for classif."

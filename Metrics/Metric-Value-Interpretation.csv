@@ -1,0 +1,7 @@
+"Metric","Value","Interpretation"
+"Accuracy","96.8 ± 0.3%","Overall correct predictions; tops baselines by 2-4%"
+"Precision","97.1 ± 0.4%","Low false positives (crucial to avoid over-treatment)"
+"Recall","96.5 ± 0.5%","High true positive rate (minimizes missed diseases)"
+"Macro F1","96.8 ± 0.4%","Balanced prec/rec; excels on minorities (e.g., blast F1=0.94)"
+"Cohen's Kappa","0.96 ± 0.01","Agreement beyond chance; near-perfect"
+"Top-5 Accuracy","99.2%","Robust to subtle confusions"

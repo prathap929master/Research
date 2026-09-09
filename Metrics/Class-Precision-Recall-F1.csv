@@ -1,0 +1,6 @@
+"Class","Precision","Recall","F1"
+"Healthy","0.98","0.99","0.985"
+"Stripe Rust","0.97","0.96","0.965"
+"Powdery Mildew","0.96","0.95","0.955"
+"Leaf Blight","0.95","0.94","0.945"
+"Wheat Blast (rare)","0.93","0.95","0.940"

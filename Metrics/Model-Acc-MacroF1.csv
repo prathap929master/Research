@@ -1,0 +1,6 @@
+"Model","Acc (%)","Macro F1"
+"RF (HOG)","82.1","0.81"
+"U-Net","85.7","0.84"
+"DeiT-Tiny","91.5","0.90"
+"MobileNetV3","92.3","0.91"
+"WheatHybridNet","96.5","0.96"
